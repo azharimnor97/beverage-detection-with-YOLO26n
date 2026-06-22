@@ -1,6 +1,6 @@
-# Drink Detection with YOLO
+# Beverage Detection with YOLO
 
-An end-to-end object detection project that trains a YOLOv8 model to detect and classify 5 beverage products in images and video. The full pipeline covers image collection, augmentation, dataset splitting, model training (Google Colab), evaluation, and video inference.
+An end-to-end object detection project that trains a YOLOv26s model to detect and classify 5 beverage products in images and video. The full pipeline covers image collection, augmentation, dataset splitting, model training (Google Colab), evaluation, and video inference.
 
 ---
 
@@ -253,3 +253,14 @@ The `.gitignore` excludes the following from version control:
 - Virtual environments (`venv/`, `.venv`)
 - IDE configuration (`.vscode/`, `.idea/`)
 - Jupyter checkpoints (`.ipynb_checkpoints/`)
+
+---
+
+## Acknowledgements
+
+This project was inspired by the following tutorial:
+
+**Edje Electronics** — *How to Train YOLO Object Detection Models in Google Colab (YOLO26, YOLO11, YOLOv8)*
+YouTube: [https://youtu.be/r0RspiLG260?si=jEqo6XEE8pdmLWAE](https://youtu.be/r0RspiLG260?si=jEqo6XEE8pdmLWAE)
+
+A huge thank you to Edje Electronics for the clear and practical walkthrough that served as the foundation for the training pipeline used in this project.
