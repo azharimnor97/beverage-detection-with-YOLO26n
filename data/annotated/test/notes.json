@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "AikCheong_CoffeeMix"
+    },
+    {
+      "id": 1,
+      "name": "Boh_InstantTeh"
+    },
+    {
+      "id": 2,
+      "name": "FrencheRoast_SaltedCaramel"
+    },
+    {
+      "id": 3,
+      "name": "Nestum_Honey"
+    },
+    {
+      "id": 4,
+      "name": "Oreo_Original"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
