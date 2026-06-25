@@ -1,5 +1,7 @@
 # Beverage Detection with YOLO
 
+![Beverage detection demo](data\video_2026-06-22_12-10-08.gif)
+
 An end-to-end object detection project that trains a YOLOv26s model to detect and classify 5 beverage products in images and video. The full pipeline covers image collection, augmentation, dataset splitting, model training (Google Colab), evaluation, and video inference.
 
 ---
@@ -13,6 +15,12 @@ An end-to-end object detection project that trains a YOLOv26s model to detect an
 | 2 | FrencheRoast_SaltedCaramel |
 | 3 | Nestum_Honey |
 | 4 | Oreo_Original |
+
+## Sample Detections
+
+| | |
+|---|---|
+| ![Bounded detection 1](images/bounded-01.jpg) | ![Bounded detection 2](images/bounded-02.jpg) |
 
 ---
 
@@ -150,6 +158,13 @@ The notebook covers:
 | **All** | **0.903** | **0.768** | **0.856** |
 
 **Overall mAP50-95: 0.722**
+
+### Performance Charts
+
+| Validation Set | Test Set |
+|---|---|
+| ![Validation set performance](images/validation_set_performance.png) | ![Test set performance](images/test_set_performance.png) |
+
 
 ---
 
