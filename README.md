@@ -1,6 +1,6 @@
 # Beverage Detection with YOLO
 
-![Beverage detection demo](data\video_2026-06-22_12-10-08.gif)
+![Beverage detection demo](data/video_2026-06-22_12-10-08.gif)
 
 An end-to-end object detection project that trains a YOLOv26s model to detect and classify 5 beverage products in images and video. The full pipeline covers image collection, augmentation, dataset splitting, model training (Google Colab), evaluation, and video inference.
 

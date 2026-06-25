@@ -64,6 +64,11 @@ CLAUDE.md
 CHANGES_SUMMARY.md
 .claude/
 
+# ── Personal / Drafts ─────────────────────────────────────────────────────────
+linkedin_post.md
+AUGMENTATION_SCRIPTS_COMPARISON.md
+resume_bullets.md
+
 # ── Jupyter Notebooks ─────────────────────────────────────────────────────────
 beverage_detection_with_YOLO26s.ipynb
 .ipynb_checkpoints/
